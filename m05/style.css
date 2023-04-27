@@ -1,0 +1,28 @@
+.container{
+    width: 700px;
+    margin: 0 auto;
+    height: 800px;
+    background-color: rgb(0, 92, 128);
+    color: white;
+    border: 7px;
+    border-style: double;
+}
+h1{
+    text-align: center;
+}
+p#kedua{
+    font-variant: small-caps;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+list{
+    color: cornsilk;
+    font-size: 20px;
+    padding: 10px;
+}
+img{
+    width: 500px;
+    padding: 7px;
+}
+p{
+    padding: 7px;
+}
